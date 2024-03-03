@@ -71,8 +71,9 @@ td {
 
 body {
   line-height: 1;
-  color: black;
-  background: white;
+  color: rgb(255, 255, 255);
+  background: rgb(10, 10, 10);
+  line-height: 1.7;
 }
 
 :focus {

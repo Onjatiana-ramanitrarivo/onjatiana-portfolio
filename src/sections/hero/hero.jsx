@@ -8,7 +8,7 @@ function Hero() {
     return (
         <>
             <section id="hero">
-                <div class="hero-container">
+                <div className="hero-container">
                     <h3>Coding with passion, creating with magic !</h3>
                     <h1><FontAwesomeIcon icon={faHands} />Akory aby, I am <span>Onjatiana</span></h1>
 
@@ -22,7 +22,7 @@ function Hero() {
                             }}
                         />
                     </h2>
-                    <a href="#about" class="btn-get-started scrollto">About me</a>
+                    <a href="#about" className="btn-get-started scrollto">About me</a>
                 </div>
             </section>
         </>
